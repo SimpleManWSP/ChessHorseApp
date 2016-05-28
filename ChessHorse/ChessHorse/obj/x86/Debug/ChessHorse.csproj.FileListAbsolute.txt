@@ -1,0 +1,5 @@
+E:\Studing\Practice\Programming\C#\ChessHorse\ChessHorse\bin\Debug\ChessHorse.exe
+E:\Studing\Practice\Programming\C#\ChessHorse\ChessHorse\bin\Debug\ChessHorse.pdb
+E:\Studing\Practice\Programming\C#\ChessHorse\ChessHorse\obj\x86\Debug\ChessHorse.exe
+E:\Studing\Practice\Programming\C#\ChessHorse\ChessHorse\obj\x86\Debug\ChessHorse.pdb
+E:\Studing\Practice\Programming\C#\ChessHorse\ChessHorse\obj\x86\Debug\ChessHorse.csprojResolveAssemblyReference.cache
